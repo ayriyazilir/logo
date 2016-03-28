@@ -25,3 +25,12 @@ ayriyazilir.com ve alt sayfalarına ait logolar.
 
 - PNG file: [ki.png](https://raw.githubusercontent.com/ayriyazilir/logo/master/ki.png)
 - Sketch file: [ki.sketch](https://raw.githubusercontent.com/ayriyazilir/logo/master/ki.sketch)
+
+---
+
+## soruekimi.ayriyazilir.com
+
+![soruekimi.ayriyazilir.com](https://raw.githubusercontent.com/ayriyazilir/logo/master/mi.png)
+
+- PNG file: [mi.png](https://raw.githubusercontent.com/ayriyazilir/logo/master/mi.png)
+- Sketch file: [mi.sketch](https://raw.githubusercontent.com/ayriyazilir/logo/master/mi.sketch)
