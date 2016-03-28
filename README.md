@@ -34,3 +34,7 @@ ayriyazilir.com ve alt sayfalarına ait logolar.
 
 - PNG file: [mi.png](https://raw.githubusercontent.com/ayriyazilir/logo/master/mi.png)
 - Sketch file: [mi.sketch](https://raw.githubusercontent.com/ayriyazilir/logo/master/mi.sketch)
+
+---
+
+_Not: Kullanılan renkler ve font, hiçbir kişi veya kurumla alakalı olmayıp, tamamen rastlantısal olarak seçilmiştir._
